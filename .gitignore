@@ -1,0 +1,13 @@
+.idea
+
+tmp
+
+*.log
+
+.DS_Store
+
+*.exe
+
+.codex
+
+.cache
